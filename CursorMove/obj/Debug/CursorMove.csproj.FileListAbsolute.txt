@@ -1,0 +1,9 @@
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\bin\Debug\CursorMove.exe.config
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\bin\Debug\CursorMove.exe
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\bin\Debug\CursorMove.pdb
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\obj\Debug\CursorMove.csprojResolveAssemblyReference.cache
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\obj\Debug\CursorMove.Form1.resources
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\obj\Debug\CursorMove.Properties.Resources.resources
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\obj\Debug\CursorMove.csproj.GenerateResource.Cache
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\obj\Debug\CursorMove.exe
+c:\users\bavwb\documents\visual studio 2017\Projects\CursorMove\CursorMove\obj\Debug\CursorMove.pdb
